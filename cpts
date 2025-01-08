@@ -1,6 +1,11 @@
-# COPY/PASTE FOR EXAM VM
+--- COPY/PASTE FOR EXAM VM ---
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt install openssh-client
 sudo apt-get install
+sudo apt-get install mlocate
 wget https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt
+
+--- HELP SECTION ---
+Q. locate isn't finding my file!
+A. type sudo updatedb and try again. 
