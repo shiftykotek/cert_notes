@@ -1,1 +1,6 @@
 # COPY/PASTE FOR EXAM VM
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt install openssh-client
+sudo apt-get install
+wget https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt
